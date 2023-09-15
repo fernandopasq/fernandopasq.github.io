@@ -9,175 +9,175 @@
   {
     "objectID": "w01d1-welcome-fernando.html#as-you-enter",
     "href": "w01d1-welcome-fernando.html#as-you-enter",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "As you enter…",
     "text": "As you enter…\n\nMake a name card (name on front and back)\nSit next to someone you don’t know well\nIntroduce yourself. Ideas:\n\nWhat you’re studying (and how you got to that answer)\nSomething you’re passionate about outside of this class: a cause, a subject, a hobby, etc.\nSomething you’re excited about for this semester"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#introduction---fernando-pasquini-santos",
     "href": "w01d1-welcome-fernando.html#introduction---fernando-pasquini-santos",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Introduction - Fernando Pasquini Santos",
     "text": "Introduction - Fernando Pasquini Santos\n\nFrom east coast (North Carolina, Maryland, NY, Boston)\n5th year at Calvin\nPartner with an architect\nDad of twin kindergarteners\nMember of New City Fellowship"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#opening-prayer",
     "href": "w01d1-welcome-fernando.html#opening-prayer",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Opening Prayer",
     "text": "Opening Prayer\nFrom the apostle Paul’s letter to the Philippians:\n\nThis is my prayer: that your love may abound more and more in knowledge and depth of insight,so that you may be able to discern what is best and may be pure and blameless for the day of Christ, filled with the fruit of righteousness that comes through Jesus Christ—to the glory and praise of God."
   },
   {
     "objectID": "w01d1-welcome-fernando.html#what-is-this-course",
     "href": "w01d1-welcome-fernando.html#what-is-this-course",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "What is this course?",
     "text": "What is this course?\n\nvisualization: communicating data to humans\nmodeling and validation: using data to perform tasks\nbut first, data wrangling: How to transform data into the structure you need for visualization and modeling\n\n…using computing in Python and occasionally other tools"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#where-are-we-going",
     "href": "w01d1-welcome-fernando.html#where-are-we-going",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Where are we going?",
     "text": "Where are we going?\n\n\n\nIntroduction (weeks 1 and 2)\nVis Design (week 3)\nVis Implementation (week 4)\nWrangling (weeks 5 and 6)\nMidterm project: redesign and recreate a visualization (starts week 3, presentations and revision week 8)\n\n\n\nModeling: Design (week 9)\nModeling: Neighbors and trees (week 10)\nModeling: Other models (week 11)\nValidation (week 12)\nLLMs, other topics, and final project (weeks 13, 14 and 15)\n\n\n\nDiscussions on ethics and perspectives are woven in throughout the course."
   },
   {
     "objectID": "w01d1-welcome-fernando.html#optional-material",
     "href": "w01d1-welcome-fernando.html#optional-material",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Optional material",
     "text": "Optional material\n\nClustering (Unsupervised Learning)\nDatabases and APIs\nText Data\nGeospatial Data\nAudio and Image Data"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#feedback-from-prior-years",
     "href": "w01d1-welcome-fernando.html#feedback-from-prior-years",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Feedback from Prior Years",
     "text": "Feedback from Prior Years\n“What aspects of this course most helped your learning?”\n\nLab. Homework. “forced our brains to work.”\n\n“What additional or different things could you have done to enhance your learning?”\n\n“gone to more office hours”, “gone over the exercises and homework more”"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#weekly-rhythm",
     "href": "w01d1-welcome-fernando.html#weekly-rhythm",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Weekly Rhythm",
     "text": "Weekly Rhythm\n\nMonday and Wednesday in classroom (mix of lecture, discussion, and activities)\nFriday in lab (mostly working on exercises or projects)"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#technology-well-use",
     "href": "w01d1-welcome-fernando.html#technology-well-use",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Technology We’ll Use",
     "text": "Technology We’ll Use\n\nRStudio: A powerful environment for working with data (even in Python!)\n\nMost students will use Calvin’s installation https://r.cs.calvin.edu/\nYou can also install it on your own computer\n\nPerusall\n\nTextbook reading assignments: ask questions so we know what to focus on in class\nAnnouncement and Q&A forums; you can post anonymously if you want\nPerspectival readings: annotate to share your thoughts\n\n\nNote: Perusall is new for this course, so expect some growing pains."
   },
   {
     "objectID": "w01d1-welcome-fernando.html#example-final-projects",
     "href": "w01d1-welcome-fernando.html#example-final-projects",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Example final projects",
     "text": "Example final projects\n\nPredict how much a used car will sell for\nForecast how much electricity will be used\nPredict how much a plane flight will cost"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#a-reading",
     "href": "w01d1-welcome-fernando.html#a-reading",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "A reading",
     "text": "A reading\n\nSeek good and not evil, that you may live, and so the Lord, the God of hosts, will be with you, just as you have said. Hate evil and love good, and establish justice in the gate; it may be that the Lord, the God of hosts, will be gracious to the remnant of Joseph.  …  I hate, I despise your festivals, and I take no delight in your solemn assemblies. Even though you offer me your burnt offerings and grain offerings, I will not accept them, and the offerings of well-being of your fatted animals I will not look upon. … But let justice roll down like water and righteousness like an ever-flowing stream.\n\nAmos 5:14-15, 21-24 NRSV\nWhat might this mean for us working with data?\nMedia is the message\nBias in data acquisition\nBias in data modeling\nBias in data visualization\nRecognizing the limits of representation from our essentially situated and limited perspective\nMisrepresentation brings injustice\nWe need a semiotic competence"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#our-goals",
     "href": "w01d1-welcome-fernando.html#our-goals",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Our Goals",
     "text": "Our Goals\n\nSkill: how to work with the tools\nKnowledge: understanding the underlying concepts\nDispositions (virtues): habits of using these skills wisely"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#humility",
     "href": "w01d1-welcome-fernando.html#humility",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Humility",
     "text": "Humility\nChallenge: data feels powerful, people listen to what you use it to say.\nSo we will practice:\n\nCiting all sources (for both data and process)\nAcknowledging limitations\nNoticing and reporting our analysis decisions and possible alternatives\nValidation of results"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#integrity",
     "href": "w01d1-welcome-fernando.html#integrity",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Integrity",
     "text": "Integrity\nIt’s tempting to say something that isn’t entirely true, or to manipulate the collection/analysis/reporting process to yield the answer you want.\n\nSo we will practice:\n\nEvaluating claims that others use data to make\nClearly articulating our analysis decisions and rationale\nReproducibility\nUsing exploratory analytics to validate data against assumptions"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#hospitality",
     "href": "w01d1-welcome-fernando.html#hospitality",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Hospitality",
     "text": "Hospitality\nWe can choose to use our tools to elucidate and clarify, rather than obscure.\nSo we will practice:\n\nClear visual communication\nClarity of code and process\nWriting explanations that are accessible and appropriate to audience."
   },
   {
     "objectID": "w01d1-welcome-fernando.html#compassion-and-justice",
     "href": "w01d1-welcome-fernando.html#compassion-and-justice",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "Compassion and Justice",
     "text": "Compassion and Justice\nData Science can both cause harm and reveal it.\nSo we will:\n\nStudy examples of how data might cause harm\nStudy examples of how harm might be mitigated or revealed"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#the-data",
     "href": "w01d1-welcome-fernando.html#the-data",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "The data",
     "text": "The data\n\n\n\n\n\n\n\n\n\ncountry\nyear\nissue\npercent_yes\n\n\n\n\n0\nTurkey\n1946\nColonialism\n0.800000\n\n\n1\nTurkey\n1946\nEconomic development\n0.600000\n\n\n2\nTurkey\n1946\nHuman rights\n0.000000\n\n\n3\nTurkey\n1947\nColonialism\n0.222222\n\n\n4\nTurkey\n1947\nEconomic development\n0.500000\n\n\n...\n...\n...\n...\n...\n\n\n1207\nUS\n2019\nArms control and disarmament\n0.187500\n\n\n1208\nUS\n2019\nEconomic development\n0.187500\n\n\n1209\nUS\n2019\nHuman rights\n0.357143\n\n\n1210\nUS\n2019\nPalestinian conflict\n0.000000\n\n\n1211\nUS\n2019\nNuclear weapons and material\n0.058824\n\n\n\n\n1212 rows × 4 columns\n\n\n\n\n\nErik Voeten “Data and Analyses of Voting in the UN General Assembly” Routledge Handbook of International Organization, edited by Bob Reinalda (published May 27, 2013). Available at http://ssrn.com/abstract=2111149"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#section",
     "href": "w01d1-welcome-fernando.html#section",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "",
     "text": "show_plot(\n  px.scatter(votes, x='year', y='percent_yes'))"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#section-1",
     "href": "w01d1-welcome-fernando.html#section-1",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "",
     "text": "show_plot(\n  px.scatter(votes, x='year', y='percent_yes',\n    facet_col='issue', facet_col_wrap=3, facet_col_spacing=.1))"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#section-2",
     "href": "w01d1-welcome-fernando.html#section-2",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "",
     "text": "show_plot(\n  px.scatter(votes, x='year', y='percent_yes', color='country',\n    facet_col='issue', facet_col_wrap=3, facet_col_spacing=.1))"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#section-3",
     "href": "w01d1-welcome-fernando.html#section-3",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "",
     "text": "show_plot(\n  px.scatter(votes, x='year', y='percent_yes', color='country',\n    facet_col='issue', facet_col_wrap=3, facet_col_spacing=.1,\n    trendline='lowess'))"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#section-4",
     "href": "w01d1-welcome-fernando.html#section-4",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "",
     "text": "show_plot(\n  px.scatter(votes, x='year', y='percent_yes', color='country',\n    facet_col='issue', facet_col_wrap=3, facet_col_spacing=.1,\n    trendline='lowess',\n    labels={\"percent_yes\": \"% Yes Votes\", \"year\": \"Year\", \"country\": \"Country\"},\n    title=\"Percentage of 'Yes' votes in the UN General Assembly\"))"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#section-5",
     "href": "w01d1-welcome-fernando.html#section-5",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "",
     "text": "show_plot(\n  px.scatter(votes, x='year', y='percent_yes', color='country',\n    facet_col='issue', facet_col_wrap=3, facet_col_spacing=.1,\n    trendline='lowess',\n    labels={\"percent_yes\": \"% Yes Votes\", \"year\": \"Year\", \"country\": \"Country\"},\n    title=\"Percentage of 'Yes' votes in the UN General Assembly\")\n  .update_traces(marker_size=2)) # Smaller markers"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#section-6",
     "href": "w01d1-welcome-fernando.html#section-6",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "",
     "text": "show_plot(\n  px.scatter(votes, x='year', y='percent_yes', color='country',\n    facet_col='issue', facet_col_wrap=3, facet_col_spacing=.1,\n    trendline='lowess',\n    labels={\"percent_yes\": \"% Yes Votes\", \"year\": \"Year\", \"country\": \"Country\"},\n    title=\"Percentage of 'Yes' votes in the UN General Assembly\")\n  .update_traces(marker_size=2) # Smaller markers\n  # Remove the \"issue=\"\n  .for_each_annotation(lambda a: a.update(text=a.text.split(\"=\", 1)[-1])))"
   },
   {
     "objectID": "w01d1-welcome-fernando.html#section-7",
     "href": "w01d1-welcome-fernando.html#section-7",
-    "title": "DATA 202 Week 1 Day 1: Welcome! (Prof. Santos)",
+    "title": "DATA 202 Week 1 Day 1: Welcome!",
     "section": "",
     "text": "show_plot(\n  px.scatter(votes, x='year', y='percent_yes', color='country',\n    facet_col='issue', facet_col_wrap=3, facet_col_spacing=.1,\n    trendline='lowess',\n    labels={\"percent_yes\": \"% Yes Votes\", \"year\": \"Year\", \"country\": \"Country\"},\n    title=\"Percentage of 'Yes' votes in the UN General Assembly\")\n  .update_traces(marker_size=2) # Smaller markers\n  # Remove the \"issue=\"\n  .for_each_annotation(lambda a: a.update(text=a.text.split(\"=\", 1)[-1]))\n  .update_yaxes(tickformat=\",.0%\")) # Percent labels"
   },
